@@ -1,0 +1,96 @@
+{
+  "titleNameMap": {
+    "educationList": "教育背景",
+    "workExpList": "实习经历",
+    "projectList": "项目经验",
+    "skillList": "专业技能",
+    "awardList": "荣誉奖项",
+    "workList": "个人作品",
+    "aboutme": "个人评价"
+  },
+  "avatar": {
+    "src": "",
+    "hidden": true
+  },
+  "profile": {
+    "name": "梁子烽",
+    "email": "2370304878@qq.com",
+    "mobile": "18676021661",
+    "github": "",
+    "zhihu": "",
+    "workExpYear": "",
+    "otherInfo": "现居城市：广东省中山市 | 性别：男 | 籍贯：广东省中山市 | 民族：汉族 | 政治面貌：共青团员 | 求职意向：软件开发工程师"
+  },
+  "educationList": [
+    {
+      "edu_time": [
+        "2023.09.01",
+        "2027.06.30"
+      ],
+      "school": "内蒙古民族大学",
+      "major": "网络工程（全日制本科）",
+      "academic_degree": "本科",
+      "edu_desc": "核心课程：计算机组成原理、计算机网络基础"
+    }
+  ],
+  "awardList": [
+    {
+      "award_info": "锐捷大赛内蒙古赛区优秀奖",
+      "award_time": ""
+    },
+    {
+      "award_info": "机动车驾驶证",
+      "award_time": ""
+    },
+    {
+      "award_info": "语言能力：粤语、日语、英语",
+      "award_time": ""
+    },
+    {
+      "award_info": "兴趣爱好：羽毛球",
+      "award_time": ""
+    }
+  ],
+  "workExpList": [
+    {
+      "company_name": "XX公司",
+      "department_name": "XX部门",
+      "work_time": [
+        "2024.01",
+        "2025.11"
+      ],
+      "work_desc": "实习生\r\n1. 协助部门进行业务资料收集与整理，保证业务数据精准录入\r\n2. 参与项目落地执行工作，负责项目各环节沟通协调，保障项目进度平稳推进\r\n3. 使用办公及数据工具制作业务数据分析报表，为团队业务研判提供数据支撑"
+    }
+  ],
+  "skillList": [
+    {
+      "skill_name": "AI 工具应用",
+      "skill_desc": "提示词工程、大模型API集成、AI工具应用、AI内容生成"
+    },
+    {
+      "skill_name": "办公软件",
+      "skill_desc": "Word、Excel 等办公软件熟练使用"
+    },
+    {
+      "skill_name": "AI 编程辅助",
+      "skill_desc": "熟练使用 Claude Code、OpenCode 等 AI 编程辅助工具，提升项目开发与技术学习效率"
+    }
+  ],
+  "projectList": [
+    {
+      "project_name": "森林火灾识别系统",
+      "project_role": "独立全流程开发",
+      "project_time": "2025.09 - 2026.11",
+      "project_desc": "基于深度学习的森林火灾智能识别系统，支持昼夜、室内外、复杂干扰等多场景下的火灾烟雾检测",
+      "project_content": "1. 基于 YOLO11n 搭建火灾、烟雾二分类目标检测算法，在五类场景下 mAP@0.5 达 92.7%，召回率 95%，误检率 3%\n2. 使用 Streamlit 开发轻量化 Web 交互界面，支持图片/视频上传、置信度阈值自定义、检测结果可视化，图片检测端到端响应 < 0.3 秒\n3. 依托 OpenCV 实现视频逐帧推理与画面合成输出，程序稳定运行 27FPS 以上，满足野外实时火情监控需求\n4. 独立完成数据集标注、模型调参、精度测试、在线部署全流程，系统可有效区分云层、灯光、蒸汽等干扰物体，降低误识别"
+    }
+  ],
+  "workList": [],
+  "aboutme": {
+    "aboutme_desc": "1. 拥有完整软件开发全流程实操经验，能够独立完成前后端开发、功能测试直至项目上线全链路工作\n2. 学习与归纳总结能力优异，对行业新技术具备敏锐的洞察与学习能力\n3. 熟练使用 Claude Code、OpenCode 等 AI 编程辅助工具，借助 AI 工具提升项目开发与技术学习效率"
+  },
+  "theme": {
+    "color": "#2f5785",
+    "tagColor": "#8bc34a"
+  }
+}
