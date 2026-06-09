@@ -43,7 +43,7 @@
       "award_time": ""
     },
     {
-      "award_info": "语言能力：粤语、日语、英语",
+      "award_info": "语言能力：英语, 阅读英文文档无障碍",
       "award_time": ""
     },
     {
@@ -51,17 +51,7 @@
       "award_time": ""
     }
   ],
-  "workExpList": [
-    {
-      "company_name": "XX公司",
-      "department_name": "XX部门",
-      "work_time": [
-        "2024.01",
-        "2025.11"
-      ],
-      "work_desc": "实习生\r\n1. 协助部门进行业务资料收集与整理，保证业务数据精准录入\r\n2. 参与项目落地执行工作，负责项目各环节沟通协调，保障项目进度平稳推进\r\n3. 使用办公及数据工具制作业务数据分析报表，为团队业务研判提供数据支撑"
-    }
-  ],
+
   "skillList": [
     {
       "skill_name": "AI 工具应用",
